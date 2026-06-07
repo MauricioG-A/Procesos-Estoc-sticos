@@ -1,2 +1,2 @@
-# Procesos-Estoc-sticos
+# Procesos-Estocasticos
 Curso primero de procesos estocásticos
